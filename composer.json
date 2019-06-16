@@ -1,0 +1,24 @@
+{
+    "name": "theblackbeard/bbuploader",
+    "description": "Simple Uploader Files",
+    "minimum-stability": "stable",
+    "authors": [
+      {
+        "name": "BlackBeard",
+        "email": "bbearddev@gmail.com",
+        "homepage": "https://www.bbeardev.com",
+        "role": "Developer"
+      }
+    ],
+    "config": {
+      "vendor-lib": "vendor"
+    },
+    "autoload": {
+      "psr-4": {
+        "Source\\": "source/"
+      }
+    },
+    "require": {
+      
+    }
+  }
